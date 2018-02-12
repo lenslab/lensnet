@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#ff0000",
+        "#fffff9",
         "#363434",
         "#1b3516",
         "#343131",
         "#04303e",
-        "#2e2e2e",
-        "#c9d5d7",
-        "#5c698e"
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1045,7 +1045,7 @@
               "color": "#ffffff"
             },
             ".card-title B": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             }
           },
           "_name": "features2",
